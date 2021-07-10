@@ -1,8 +1,8 @@
 
 let pronoun = ['The','Our', ];
-let adj = ['great', 'big',"fabolus","amazing" ];
-let noun = ['jogger','racoon',"gator", "duck"];
-let extension =[".com", ".es",".uk",".nl",".us"]
+let adj = ['Great', 'Big',"Fabolus","Amazing","Lastof" ];
+let noun = ['Jogger','Racoon',"Gator", "Duck", "Us"];
+let extension =[".Com", ".Es",".Uk",".Nl",".Us"]
 
 
 for(i = 0; i<pronoun.length; i++){
